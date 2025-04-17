@@ -2,6 +2,8 @@
 
 Este proyecto es una aplicación de escritorio desarrollada en Java que implementa las operaciones CRUD (Crear, Leer, Actualizar y Eliminar) para la gestión de clientes. La información se almacena en un archivo CSV y cuenta con una interfaz gráfica de usuario.
 
+<img src="https://media.licdn.com/dms/image/v2/D4E2DAQEPZ4E5Qh11Ig/profile-treasury-image-shrink_800_800/B4EZZEpxD6HEAY-/0/1744908522124?e=1745514000&v=beta&t=6XfOI1QI4CcnPhjeT-M6G6G3AAF84q9twzEjXkixnFA" width="100%" height="500" alt="App"/>
+
 ## Características
 
 - Gestión completa de clientes (CRUD)
