@@ -1,4 +1,4 @@
-# CRUD de Clientes en Java
+# Sistema de Gestión de Clientes (CRUD)
 
 Este proyecto es una aplicación de escritorio desarrollada en Java que implementa las operaciones CRUD (Crear, Leer, Actualizar y Eliminar) para la gestión de clientes. La información se almacena en un archivo CSV y cuenta con una interfaz gráfica de usuario.
 
